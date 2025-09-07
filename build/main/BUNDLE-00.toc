@@ -1,0 +1,1 @@
+([('main', '/Users/harshdev/Desktop/GAMES/rubiks/dist/main', 'EXECUTABLE')],)
