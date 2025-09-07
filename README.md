@@ -1,6 +1,6 @@
 # 🟥🟧🟨🟩🟦🟪 3D Rubik's Cube Solver 🟥🟧🟨🟩🟦🟪
 
-A **Python** application to interact with, scramble, and solve a **3D Rubik's Cube** using **PyRay**. Includes animated solving, interactive coloring mode, and real-time 3D manipulation.
+A **Python** application to interact with, scramble, and solve a **3D Rubik's Cube** using **Python raylib**. Includes animated solving, interactive coloring mode, and real-time 3D manipulation.
 
 ---
 
