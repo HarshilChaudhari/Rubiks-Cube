@@ -77,6 +77,36 @@ Run the application:
 python main.py
 ```
 
+---
+
+## 🚀 Running the Packaged Executable
+
+If you have built or downloaded the packaged version from the **`dist/`** folder (using PyInstaller), you can run the application directly without setting up Python or installing dependencies.
+
+### 🖥️ Windows
+
+```powershell
+dist\main.exe
+```
+
+### 🍎 macOS / 🐧 Linux
+
+```bash
+./dist/main
+```
+
+> 💡 On **macOS**, if Gatekeeper blocks the app, allow it from
+> **System Preferences → Security & Privacy → Open Anyway**.
+>
+> 💡 On **Linux**, ensure the file is executable:
+>
+> ```bash
+> chmod +x dist/main
+> ./dist/main
+> ```
+
+---
+
 ### 🎮 Controls
 
 * **Camera Movement:**
