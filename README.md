@@ -48,7 +48,7 @@ my_venv\Scripts\activate         # Windows
 3. Install dependencies:
 
 ```bash
-pip install pyray
+pip install raylib
 ```
 
 > Python 3.10+ recommended.
