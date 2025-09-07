@@ -128,7 +128,7 @@ dist\main.exe
 
 ## 📦 Dependencies
 
-* [PyRay](https://github.com/overdev/pyray) — 3D graphics for Python
+* [Python raylib](https://pypi.org/project/raylib/) — 3D graphics for Python (Python Bindings for Raylib 5.5)
 * Python 3.10+
 
 ---
